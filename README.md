@@ -8,3 +8,5 @@ Huge thanks to her for writing this!
 <br /> 
 
 PS: You can do an inverse FFT using the plain FFT using the tricks described here: https://www.dsprelated.com/showarticle/800.php - "Four Ways to Compute an Inverse FFT Using the Forward FFT Algorithm"
+
+Also worth watching: https://youtu.be/h7apO7q16V0?t=1596
